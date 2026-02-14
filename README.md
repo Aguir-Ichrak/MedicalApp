@@ -24,7 +24,7 @@ Supports patients and doctors with appointment creation, editing, and status tra
 ### Prerequisites
 
 - Node.js >= 18
-- npm or yarn
+- npm
 - Expo CLI (`npm install -g expo-cli`)
 - iOS Simulator / Android Emulator or a physical device
 
